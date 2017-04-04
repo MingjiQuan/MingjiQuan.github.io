@@ -14,14 +14,11 @@ links:
   - name:         About me
     url:          /about
     external:     false
-  - name:         Test
-    url:          /server/
-    external:     false
+
 
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
-permalink:        /server/:title
 defaults:
   - values:
       layout: "default"
