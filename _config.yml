@@ -14,9 +14,9 @@ links:
   - name:         About me
     url:          /about
     external:     false
-      - name:         ddd
+  - name:         Test
         url:          /about
-        external:     false
+      external:     false
 
 # ------------ CONFIGURABLE END ------------
 
