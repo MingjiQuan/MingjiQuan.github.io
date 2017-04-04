@@ -15,7 +15,7 @@ links:
     url:          /about
     external:     false
   - name:         Server
-     url:          /server
+     url:          /_server/
      external:     false
 # ------------ CONFIGURABLE END ------------
 
