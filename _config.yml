@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "test"
-description:      "Such theme, very cool."
+title:            "Hatiolab Documents"
+description:      "Hatiolab Documents"
 
 signoff:          "MingjiQuan" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
