@@ -14,6 +14,9 @@ links:
   - name:         About me
     url:          /about
     external:     false
+  - name:         Server
+     url:          /server
+     external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
