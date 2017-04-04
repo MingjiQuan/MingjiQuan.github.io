@@ -15,7 +15,7 @@ links:
     url:          /about
     external:     false
   - name:         Test
-    url:          /README
+    url:          /_server/
     external:     false
 
 # ------------ CONFIGURABLE END ------------
