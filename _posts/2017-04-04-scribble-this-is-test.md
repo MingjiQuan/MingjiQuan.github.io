@@ -35,11 +35,11 @@ date: 2013-05-06 15:27:31
 
 ##### 1.1.1	Install Java
 
-Oracle Homepage에서 JDK 8를 Download 받는다.https://java.com/ko/download/파일을 실행하여 설치를 실행한다.![](./image/image1.png)
+Oracle Homepage에서 JDK 8를 Download 받는다.https://java.com/ko/download/파일을 실행하여 설치를 실행한다.![](./images/image1.png)
 
 환경 변수 등록을 위해, '제어판-시스템-고급시스템-고급-환경변수'를 실행한다.
 
-![](./image/image2.png)
+![](./images/image2.png)
 
 시스템 변수에 '새로 만들기'를 클릭하여 시스템 변수를 등록한다.
 
